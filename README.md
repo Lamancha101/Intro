@@ -2,7 +2,7 @@
 infos about the author
 
 ## job
-Quantitative investment, Macro hedge stragety
+Quantitative investment, Macro hedge stragety， DEFI
 
 ## interest
 Efficiency booster from AI
