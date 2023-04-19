@@ -2,7 +2,7 @@
 infos about the author
 
 ## job
-Quantitative investment, Macro hedge stragety, test
+Quantitative investment, Macro hedge stragety, 
 makeit  
 
 ## interest
